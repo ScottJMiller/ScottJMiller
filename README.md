@@ -1,4 +1,4 @@
-[![sjmurl](/assets/scottjmiller.svg)](https://scottjmiller.com)
+[![sjmurl](/assets/scottjmiller1.svg)](https://scottjmiller.com)
 
 <!--
 **ScottJMiller/ScottJMiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
