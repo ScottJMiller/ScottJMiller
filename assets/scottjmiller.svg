@@ -2,45 +2,39 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="169.43408mm"
+   width="78.652946mm"
    height="24.248693mm"
-   viewBox="0 0 169.43408 24.248693"
+   viewBox="0 0 78.652946 24.248693"
    version="1.1"
    id="svg1"
+   xml:space="preserve"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs1" />
-  <g
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1" /><g
      id="layer1"
-     transform="translate(-40.000002,-42.716355)">
-    <rect
-       style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke-width:0.265514;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+     transform="translate(-39.999999,-42.716355)"><rect
+       style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke-width:0.180902;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:hairline;paint-order:stroke fill markers"
        id="rect1"
-       width="169.43408"
+       width="78.652946"
        height="24.248692"
        x="40"
        y="42.716354"
-       ry="4.7631359" />
-    <text
+       ry="4.7631359" /><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:51.1527px;font-family:C-64;-inkscape-font-specification:'C-64, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:hairline;paint-order:stroke fill markers"
-       x="64.762901"
-       y="62.606453"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:51.1527px;font-family:Abel;-inkscape-font-specification:'Abel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:#0969da;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+       x="65.975433"
+       y="62.121441"
        id="text1"><tspan
          id="tspan1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:C-64;-inkscape-font-specification:'C-64, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="64.762901"
-         y="62.606453">scottjmiller.com</tspan></text>
-    <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Abel;-inkscape-font-specification:'Abel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0969da;fill-opacity:1;stroke-width:0.264583"
+         x="65.975433"
+         y="62.121441">scottjmiller.com</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:51.1527px;font-family:C-64;-inkscape-font-specification:'C-64, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:hairline;paint-order:stroke fill markers"
-       x="44.356197"
-       y="55.474014"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.89427px;line-height:53.7361px;font-family:Abel;-inkscape-font-specification:'Abel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:#0969da;fill-opacity:1;stroke-width:0.277945;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+       x="43.432766"
+       y="55.090752"
        id="text2"><tspan
          id="tspan2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:C-64;-inkscape-font-specification:'C-64, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="44.356197"
-         y="55.474014">DATA SCIENCE, AI/ML</tspan></text>
-  </g>
-</svg>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.89427px;font-family:Abel;-inkscape-font-specification:'Abel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0969da;fill-opacity:1;stroke-width:0.277945"
+         x="43.432766"
+         y="55.090752">DATA SCIENCE, AI/ML</tspan></text></g></svg>
