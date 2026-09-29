@@ -1,4 +1,3 @@
-[![header](/assets/header-01.svg)](#)  
 [![sjmurl](/assets/scottjmiller.svg)](https://scottjmiller.com)
 
 <!--
